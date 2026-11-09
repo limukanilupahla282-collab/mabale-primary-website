@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520" role="img" aria-label="Mabale Primary School crest">
+  <!-- Bottom ribbon -->
+  <path d="M40 420.4 L16 433 L28 443.6 L16 455 L40 466.9 A522 522 0 0 0 360 466.9 L384 455 L372 443.6 L384 433 L360 420.4 A478 478 0 0 1 40 420.4 Z" fill="#FFFFFF" stroke="#123B70" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M40 420.4 A478 478 0 0 0 360 420.4 L360 466.9 A522 522 0 0 1 40 466.9 Z" fill="#EAF2FB" stroke="#123B70" stroke-width="3" stroke-linejoin="round"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="20" fill="#123B70">
+    <text transform="rotate(16.06 200 -30)" x="200" y="477" text-anchor="middle">H</text>
+    <text transform="rotate(13.62 200 -30)" x="200" y="477" text-anchor="middle">W</text>
+    <text transform="rotate(11.18 200 -30)" x="200" y="477" text-anchor="middle">A</text>
+    <text transform="rotate(8.98 200 -30)" x="200" y="477" text-anchor="middle">N</text>
+    <text transform="rotate(6.72 200 -30)" x="200" y="477" text-anchor="middle">G</text>
+    <text transform="rotate(4.52 200 -30)" x="200" y="477" text-anchor="middle">E</text>
+    <text transform="rotate(1.63 200 -30)" x="200" y="477" text-anchor="middle">·</text>
+    <text transform="rotate(-1.20 200 -30)" x="200" y="477" text-anchor="middle">Z</text>
+    <text transform="rotate(-2.77 200 -30)" x="200" y="477" text-anchor="middle">I</text>
+    <text transform="rotate(-4.59 200 -30)" x="200" y="477" text-anchor="middle">M</text>
+    <text transform="rotate(-6.90 200 -30)" x="200" y="477" text-anchor="middle">B</text>
+    <text transform="rotate(-9.10 200 -30)" x="200" y="477" text-anchor="middle">A</text>
+    <text transform="rotate(-11.29 200 -30)" x="200" y="477" text-anchor="middle">B</text>
+    <text transform="rotate(-13.73 200 -30)" x="200" y="477" text-anchor="middle">W</text>
+    <text transform="rotate(-16.12 200 -30)" x="200" y="477" text-anchor="middle">E</text>
+  </g>
+
+  <!-- Shield -->
+  <path id="shield" d="M40 60 Q120 60 200 20 Q280 60 360 60 L360 230 Q360 340 200 420 Q40 340 40 230 Z" fill="#123B70" stroke="#123B70" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M40 60 Q120 60 200 20 Q280 60 360 60 L360 230 Q360 340 200 420 Q40 340 40 230 Z" transform="translate(200 220) scale(0.92) translate(-200 -220)" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Top banner -->
+  <path d="M60 94.2 L36 106 L48 115 L36 124 L60 135.9 Z" fill="#EAF2FB" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M340 94.2 L364 106 L352 115 L364 124 L340 135.9 Z" fill="#EAF2FB" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M60 94.2 A520 520 0 0 1 340 94.2 L340 135.9 A480 480 0 0 0 60 135.9 Z" fill="#FFFFFF"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="19" fill="#123B70">
+    <text transform="rotate(-16.56 200 595)" x="200" y="102" text-anchor="middle">M</text>
+    <text transform="rotate(-14.61 200 595)" x="200" y="102" text-anchor="middle">A</text>
+    <text transform="rotate(-12.79 200 595)" x="200" y="102" text-anchor="middle">B</text>
+    <text transform="rotate(-10.97 200 595)" x="200" y="102" text-anchor="middle">A</text>
+    <text transform="rotate(-9.27 200 595)" x="200" y="102" text-anchor="middle">L</text>
+    <text transform="rotate(-7.62 200 595)" x="200" y="102" text-anchor="middle">E</text>
+    <text transform="rotate(-5.06 200 595)" x="200" y="102" text-anchor="middle">P</text>
+    <text transform="rotate(-3.29 200 595)" x="200" y="102" text-anchor="middle">R</text>
+    <text transform="rotate(-1.95 200 595)" x="200" y="102" text-anchor="middle">I</text>
+    <text transform="rotate(-0.50 200 595)" x="200" y="102" text-anchor="middle">M</text>
+    <text transform="rotate(1.45 200 595)" x="200" y="102" text-anchor="middle">A</text>
+    <text transform="rotate(3.27 200 595)" x="200" y="102" text-anchor="middle">R</text>
+    <text transform="rotate(5.04 200 595)" x="200" y="102" text-anchor="middle">Y</text>
+    <text transform="rotate(7.60 200 595)" x="200" y="102" text-anchor="middle">S</text>
+    <text transform="rotate(9.37 200 595)" x="200" y="102" text-anchor="middle">C</text>
+    <text transform="rotate(11.19 200 595)" x="200" y="102" text-anchor="middle">H</text>
+    <text transform="rotate(13.08 200 595)" x="200" y="102" text-anchor="middle">O</text>
+    <text transform="rotate(15.03 200 595)" x="200" y="102" text-anchor="middle">O</text>
+    <text transform="rotate(16.80 200 595)" x="200" y="102" text-anchor="middle">L</text>
+  </g>
+
+  <!-- Quartered crest -->
+  <path d="M120 160 L280 160 L280 270 Q280 322 200 348 Q120 322 120 270 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round"/>
+  <g stroke="#123B70" stroke-width="5">
+    <line x1="200" y1="160" x2="200" y2="348"/>
+    <line x1="120" y1="236" x2="280" y2="236"/>
+  </g>
+
+  <!-- Open book -->
+  <g fill="#123B70">
+    <path d="M160 208 C152 201 140 200 131 203 L131 224 C140 221 152 222 160 228 Z"/>
+    <path d="M160 208 C168 201 180 200 189 203 L189 224 C180 221 168 222 160 228 Z"/>
+  </g>
+
+  <!-- Rising sun -->
+  <g fill="#123B70" stroke="#123B70" stroke-width="4" stroke-linecap="round">
+    <path d="M226 219 A14 14 0 0 1 254 219 Z" stroke="none"/>
+    <line x1="220" y1="223" x2="260" y2="223"/>
+    <line x1="240" y1="196" x2="240" y2="189"/>
+    <line x1="223" y1="202" x2="218" y2="196"/>
+    <line x1="257" y1="202" x2="262" y2="196"/>
+    <line x1="214" y1="214" x2="207" y2="212"/>
+    <line x1="266" y1="214" x2="273" y2="212"/>
+  </g>
+
+  <!-- Tree -->
+  <g fill="#123B70">
+    <ellipse cx="160" cy="276" rx="24" ry="11"/>
+    <ellipse cx="148" cy="283" rx="14" ry="7"/>
+    <ellipse cx="172" cy="283" rx="14" ry="7"/>
+    <path d="M157 306 L158 286 L162 286 L163 306 Z"/>
+  </g>
+
+  <!-- Pencil -->
+  <g transform="rotate(40 240 285)" fill="#123B70">
+    <rect x="233" y="258" width="14" height="38" rx="1"/>
+    <path d="M233 296 L247 296 L240 312 Z"/>
+    <rect x="233" y="268" width="14" height="3" fill="#FFFFFF"/>
+  </g>
+</svg>
